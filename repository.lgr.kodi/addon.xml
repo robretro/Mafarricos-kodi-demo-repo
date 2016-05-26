@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.lgr.kodi" name="LGR repository" version="0.0.1" provider-name="RobRetro">
-	<extension point="xbmc.addon.repository" name="LGR Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml</info>
+<addon id="repository.lgr.kodi" name="LGR Test repository" version="0.0.1" provider-name="RobRetro">
+	<extension point="xbmc.addon.repository" name="LGR Test Add-on Repository">
+		<info compressed="false">http://raw.github.com/robretro/lgrrepo/master/addons.xml</info>
 		<checksum>http://raw.github.com/robretro/lgrrepo/master/addons.xml.md5</checksum>
 		<datadir zip="true">http://raw.github.com/robretro/lgrrepo/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
+		<summary>LGR Test Addon</summary>
 		<description>Addon Description</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
