@@ -7,7 +7,7 @@
 		<datadir zip="true">http://raw.github.com/robretro/lgrrepo/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
+		<summary>LGR Test Addon</summary>
 		<description>Addon Description</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
